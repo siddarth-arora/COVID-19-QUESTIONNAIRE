@@ -4,4 +4,6 @@
 
  In the end it will also give you instructions of what to do based on your risk.
 
+ This Repository contains a text oriented code as well as voice oriented Python programme.
+
  STAY SAFE AND WASH YOUR HANDS REGULARLY!
